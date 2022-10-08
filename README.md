@@ -1,16 +1,15 @@
-# Restaurant Website  [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+#SEO Website Home Page  [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 
 ## 🛠 Technologies Used
   - HTML 
   - CSS
   
-
 ## Preview
-![See Preview](./Project_1_preview.png)
+![See Preview](./img4.png)
 
 ## Live Link
-[Link](https://foodbitecm.netlify.app)
+[Link](https://super-klepon-7150ed.netlify.app)
 
 ## Author and Contact
 - [Shyam Pandey](https://github.com/Shyam-Pandey)
